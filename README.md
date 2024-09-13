@@ -4,7 +4,7 @@
 
 Built with React Native to deliver seamless user experiences, this app features a clean design utilizing FlatLists, Linear Gradients, modals, tab bars, icons, and file-based routing with Expo Router.
 
-![App Interface Screenshot](./images/scr/scr2.jpg)  <!-- Adjust the path based on where you upload the image -->
+![App Interface Screenshot](./assets/scr/scr2.jpg)  <!-- Adjust the path based on where you upload the image -->
  
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
